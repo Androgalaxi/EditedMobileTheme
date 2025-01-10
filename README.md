@@ -1,3 +1,7 @@
+# **This is a fork from the original creator. This version is just a tweak to give myself a custom theme.**
+
+## **Go support the original creator of the project!**
+
 <h3 align="center">
    <img src="Asset/Profile/profile.png" width="100" alt="Logo"/><br/>
    Themes Repository
@@ -22,7 +26,6 @@ Each theme has been thoughtfully crafted to ensure the highest quality and aesth
 
 &nbsp;
 
-
 ### 🤝Contribution Guidelines
 
 Contributions are welcome! To add your theme:
@@ -35,18 +38,15 @@ Contributions are welcome! To add your theme:
 
 &nbsp;
 
-
 ### 🪪License
 
 This repository and its contents are licensed under the [MIT License](https://github.com/TakiShiwa/Themes/blob/main/LICENSE). You are free to use, modify, and distribute the themes for personal and commercial purposes.
 
 &nbsp;
 
-
 ### ❤️Support Me
 
 Your sponsorship will help me achieve my goals and support future projects.
-
 
 - UPI-id for Indian supporters:
   
